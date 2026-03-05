@@ -72,7 +72,7 @@ export function AboutSection() {
                 <Linkedin className="h-5 w-5 text-accent flex-shrink-0" />
                 <a href="https://www.linkedin.com/in/carlosdlrb/" target="_blank" rel="noopener noreferrer">
                   <span className="text-muted-foreground">LinkedIn</span>
-                </a>
+                </a>a
               </div>
             </div>
           </Card>
