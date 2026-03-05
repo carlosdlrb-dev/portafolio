@@ -70,9 +70,9 @@ export function AboutSection() {
               </div>
               <div className="flex items-center gap-3 hover:translate-x-2 transition-transform duration-300">
                 <Linkedin className="h-5 w-5 text-accent flex-shrink-0" />
-                <a href="https://www.linkedin.com/in/carlos-de-la-rosa-banquez-b669b7209/" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/carlosdlrb-dev" target="_blank" rel="noopener noreferrer">
                   <span className="text-muted-foreground">LinkedIn</span>
-                </a>
+                </a>a
               </div>
             </div>
           </Card>
